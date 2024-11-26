@@ -9,15 +9,31 @@
 header{
     background-color: #ff6900;
     height:60px;
+    margin-bottom:30px;
 }
-
 
 
 /* blocco di contenuto principale */
 
+.container-product{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:15px;
+}
+
+.block-product{
+    width:30%;
+    height: 80px;
+    /* DEBUG */
+    background-color: #86a583;
+    border: 1px solid black;
+}
+
 
  /* footer  */
  footer{
+    margin-top:40px;
     background-color: #1a1a1a;
     height:80px;
  }
