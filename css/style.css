@@ -80,6 +80,19 @@ header{
     font-weight: 600;
 }
 
+/* blocco hover */
+.hover{
+   display:none; 
+   
+}
+.block-product:hover .hover{
+    display: block;
+}
+
+
+
+
+
  /* footer  */
  footer{
     margin-top:40px;
