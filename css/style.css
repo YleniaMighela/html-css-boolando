@@ -81,10 +81,14 @@ header{
 }
 
 /* blocco hover */
-.hover{
-   display:none; 
-   
+.above{
+    display:none;  
 }
+
+.block-product:hover .above{
+    display: none;
+}
+
 .block-product:hover .hover{
     display: block;
 }
