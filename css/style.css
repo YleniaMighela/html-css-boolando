@@ -24,7 +24,7 @@ header{
 
 .block-product{
     width:30%;
-    height: 80px;
+    /* height: 80px; */
     /* DEBUG */
     background-color: #86a583;
     border: 1px solid black;
