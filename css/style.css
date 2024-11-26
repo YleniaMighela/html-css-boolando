@@ -56,7 +56,19 @@ header{
     font-weight: 600;
 }
 
+.label-heart{
+    
+    background-color: white;
+    padding:5px;
+    position: absolute;
+    top:5px;
+    right:0px;
+    font-size:20px;
+    width:30px;
+    text-align: center;
 
+
+}
 
 
  /* footer  */
