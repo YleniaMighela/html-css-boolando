@@ -6,6 +6,10 @@
 }
 
 /* regole header */
+header{
+    background-color: #ff6900;
+    height:60px;
+}
 
 
 
@@ -13,3 +17,8 @@
 
 
  /* footer  */
+ footer{
+    background-color: #1a1a1a;
+    height:80px;
+ }
+
