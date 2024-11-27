@@ -81,7 +81,7 @@ header{
 }
 
 /* blocco hover */
-.above{
+.hover{
     display:none;  
 }
 
@@ -90,12 +90,8 @@ header{
 }
 
 .block-product:hover .hover{
-    display: block;
+    display:block;
 }
-
-
-
-
 
  /* footer  */
  footer{
